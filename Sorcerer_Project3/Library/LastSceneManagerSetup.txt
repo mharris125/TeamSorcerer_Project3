@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/3DGamekitLite/Scenes/Room1.unity
+- path: Assets/3DGamekitLite/Scenes/Room3.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
